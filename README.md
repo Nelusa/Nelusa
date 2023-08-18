@@ -1,5 +1,5 @@
-### Hi there! 🙋🏻‍♀️
-## My name is Nela, but rather call me Neluša 🦄
+## Hi there! 🙋🏻‍♀️
+### My name is Nela, but rather call me Neluša 🦄
 
 
 - 👩🏽‍💻 I’m working as a Frontend Developer at OKsystem and volunteering as a couch and tech mentor at Czechitas
