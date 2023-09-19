@@ -5,7 +5,7 @@
 - 👩🏽‍💻 I’m working as a Frontend Developer at OKsystem and volunteering as a couch and tech mentor at Czechitas
 - 🌱 I'm continuously honing my skills in a variety of frontend technologies, such as advanced React, TypeScript, Next.js, Storybook, and Redux, as well as delving into the realm of UI/UX design.- 🔭 I'm also exploring some backend technologies (like Node.js, Deno, databases etc.)
 - 🔭 Currently, I'm on a journey to explore the backend world, working with technologies like Node.js, Deno, and various databases
-- 🤔 I'm seeking to better understand the interplay between frontend and backend to ultimately evolve into a full-stack developer
+- 🤔 I'd like to better understand the interplay between frontend and backend to ultimately evolve into a full-stack developer
 - 📱 Reach out to me: [LinkedIn](https://www.linkedin.com/in/nelaletochova)
 - ⚡ Fun fact: I am absolute a "sloth-addict" 🦥
 
